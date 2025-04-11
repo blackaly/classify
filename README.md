@@ -87,4 +87,4 @@ print(f"Category: {result['category']}")
 
 ## License
 
-MIT
+MIT License.
